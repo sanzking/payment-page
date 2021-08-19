@@ -1,4 +1,4 @@
-<body style="background: white;">
+<body style="background: red;">
 <div>
 <h1 align="center">PAYMENT GATEWAY</h1>
 </div>
