@@ -1,5 +1,5 @@
 <div>
-<h1>PAYMENT GATEWAY</h1>
+<h1 align="center">PAYMENT GATEWAY</h1>
 </div>
 <div>
 <img src="http://www.sanzstore.org/gambar/1.jpeg" height="700" width="400"><br>
