@@ -11,7 +11,5 @@
 </div>
 <div align="center">
 <h1 align="center">Follow me : </h1><br>
-<form action="htps://github.com/sanzking" method="post">
-<button type"submit">FOLLOW</button>
-</form>
+  <h4>htps://github.com/sanzking</h4>
 </div>
