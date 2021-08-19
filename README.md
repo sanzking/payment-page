@@ -1,6 +1,6 @@
 <div style="background: white;">
 <div>
-<h1 align="center">PAYMENT GATEWAY</h1>
+<h1 align="center">PAYMENT PAGES</h1>
 </div>
 <div align="center">
 <img src="http://www.sanzstore.org/gambar/1.jpeg" height="700" width="400"><br>
