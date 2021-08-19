@@ -1,4 +1,4 @@
-<body style="background: red;">
+<div style="background: red;">
 <div>
 <h1 align="center">PAYMENT GATEWAY</h1>
 </div>
@@ -9,4 +9,4 @@
 <img src="http://www.sanzstore.org/gambar/4.jpeg" height="700" width="400"><br>
 <img src="http://www.sanzstore.org/gambar/5.jpeg" height="700" width="400"><br>
 </div>
-</body>
+</div>
