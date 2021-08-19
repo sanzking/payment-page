@@ -9,8 +9,9 @@
 <img src="http://www.sanzstore.org/gambar/4.jpeg" height="700" width="400"><br>
 <img src="http://www.sanzstore.org/gambar/5.jpeg" height="700" width="400"><br>
 </div>
-<div>
-<br>
-  <h1 align="center">Follow me : </h1><br>
-  <a href="htps://github.com/sanzking">SANZKING</a>
+<div align="center">
+<h1 align="center">Follow me : </h1><br>
+<form action="htps://github.com/sanzking" method="post">
+<button type"submit">FOLLOW</button>
+</form>
 </div>
