@@ -11,5 +11,5 @@
 </div>
 <div align="center">
 <h1 align="center">Follow me : </h1><br>
-  <h4>htps://github.com/sanzking</h4>
+  <h4>https://github.com/sanzking</h4>
 </div>
